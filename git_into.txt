@@ -1,0 +1,11 @@
+git (version control system )
+git keep of all log for all the lines changed
+
+it also keep track of what and who made the 
+changes
+
+command
+
+git status 
+
+git add
