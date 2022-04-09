@@ -45,3 +45,8 @@ coping the current branch code)
 git merge <branch name> 
 (this is done to merge the branch )
 
+git branch -d <branch name> 
+(to delete a branch)
+
+
+
