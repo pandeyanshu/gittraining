@@ -36,4 +36,12 @@ git branch
 (will give the name of the branches )
 
 
- 
+ git checkout -b <branch name> 
+(this creates a new branch from the current branch 
+coping the current branch code)
+
+
+
+git merge <branch name> 
+(this is done to merge the branch )
+
