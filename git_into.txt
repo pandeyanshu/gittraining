@@ -21,3 +21,19 @@ git diff (to see all changes)
 
 git config global user.email "axxx@gmail.com"
 git config global user.name 
+
+
+git log  (to check the changes )
+
+git checkout <commit id>
+  (help us to see what chages are made in the
+   commit or move the head to the given commit)
+
+git checkout master
+(to switch to master)
+
+git branch
+(will give the name of the branches )
+
+
+ 
