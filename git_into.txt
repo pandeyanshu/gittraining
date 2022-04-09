@@ -8,4 +8,16 @@ command
 
 git status 
 
-git add
+git add  file name  (changes made but snapshot\ log not 
+           created )
+
+git add . 
+(to add all the changes)
+
+git commit -m "message" (changes are named)
+
+git diff (to see all changes)
+
+
+git config global user.email "axxx@gmail.com"
+git config global user.name 
