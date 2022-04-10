@@ -48,5 +48,20 @@ git merge <branch name>
 git branch -d <branch name> 
 (to delete a branch)
 
+*****************************************************
+
+git workflows
+				--hotfix--
+				-	 -
+master branch ------------------------------->
+  ----					-
+     -					-	
+     -					-
+     -					-
+      development branch-------------------->
+        -			-
+	-			-
+	-		      	-
+	----feature branch  -----
 
 
