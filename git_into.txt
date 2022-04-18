@@ -26,7 +26,7 @@ git config global user.email "axxx@gmail.com"
 git config global user.name 
 
 
-git log  (to check the changes )
+git log  (to check the changes)
 
 git checkout <commit id>
   (help us to see what chages are made in the
