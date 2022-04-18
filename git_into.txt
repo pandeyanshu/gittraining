@@ -7,7 +7,7 @@ changes
 command
 
 
-git init (this is for making main directory for all purpose)
+git init (this is for making main directory for all purpose)b    
 
 git status 
 
